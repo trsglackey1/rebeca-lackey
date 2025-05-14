@@ -137,12 +137,12 @@ a{
   height: 30px;
 }
 
-.education h4 {
+/*.education h4 {
   height: 5px;
 }
 .education p {
   height: 5px;
-}
+}*/
 .learning{
   display: grid;
   grid-template-columns: 375px 400px 375px;
