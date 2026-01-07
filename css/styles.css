@@ -142,9 +142,6 @@ a{
   grid-template-columns: 375px 400px 375px;
   margin-bottom: 0;
 }
-.learning li{
-  height: 10px;
-}
 .resume-section h3{
   margin: 0;
 }
@@ -171,6 +168,7 @@ a{
 #quoted{
   font-style: italic;
 }
+
 
 
 
